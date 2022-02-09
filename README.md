@@ -1,2 +1,2 @@
 # Kanye-Quotes
-This program shows you Kanye quotes by using requests module and tkinter GUI
+This program shows you Kanye quotes by using the requests module and tkinter GUI
